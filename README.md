@@ -5,6 +5,12 @@
 - 📫 How to reach me: bizzycoding@gmail.com
 - 💜 Follow me on instagram: https://www.instagram.com/bizzy_coding/
 
+
+##Welcome to my personal projects
+
+- This github account is a place to store all my personal projects
+- Web Development is my profession, and coding is my hobby
+
 <!---
 bizzy-coding/bizzy-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
