@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bizzy-coding
-- 👀 I’m interested in developing my front end skills 
-- 🌱 I’m currently learning - Advanced CSS, improving Javascript skills & starting React
+- 👀 I’m interested in improving my React knowledge and developing my JS skills 
+- 🌱 I’m currently learning - Beginner React, Intermediate JS, Advanced CSS
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: bizzycoding@gmail.com
 - 💜 Follow me on instagram: https://www.instagram.com/bizzy_coding/
