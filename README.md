@@ -6,7 +6,7 @@
 - 💜 Follow me on instagram: https://www.instagram.com/bizzy_coding/
 
 
-##Welcome to my personal projects
+## Welcome to my personal Github 
 
 - This github account is a place to store all my personal projects
 - Web Development is my profession, and coding is my hobby
