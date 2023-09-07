@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @bizzy-coding
+- 👩‍💻 Check out my codepen for mini projects https://codepen.io/Bizzy-Coding
 - 👀 I’m interested in improving my React knowledge and developing my JS skills 
 - 🌱 I’m currently learning - Beginner React, Intermediate JS, Advanced CSS
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: bizzycoding@gmail.com
 - 💜 Follow me on instagram: https://www.instagram.com/bizzy_coding/
+
 
 
 ## Welcome to my personal Github 
