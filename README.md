@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Laura Bizzle, but you can call me Bizz and I'm always @bizzy-coding
-- 👩‍💻 Check out my codepen for mini projects https://codepen.io/Bizzy-Coding
+- 👋 Hi, I’m Laura Bizzle, but you can call me Bizz
+- 👩‍💻 I'm always busy coding ✨@bizzy-coding✨
 - 👀 Interested in - improving my React knowledge and developing my JS skills 
 - 🌱 Currently learning - Intermediate React, Intermediate JS, Beginner Node JS
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: bizzycoding@gmail.com
+- 👩‍💻 Check out my codepen for mini projects https://codepen.io/Bizzy-Coding
 - 💜 Follow me on instagram: https://www.instagram.com/bizzy_coding/
 
 
