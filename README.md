@@ -9,7 +9,7 @@ I’m Laura Bizzle, but you can call me Bizz
 - **Email**: [bizzycoding@gmail.com](mailto:bizzycoding@gmail.com)
 - **CodePen**: [Check out my projects](https://codepen.io/Bizzy-Coding)
 - **Instagram**: [Follow my coding journey](https://www.instagram.com/bizzy_coding/)
-- **LinkedIn**: [Connect with me professionally](#) ((https://uk.linkedin.com/in/laura-bizzle))
+- **LinkedIn**: [Connect with me] (https://uk.linkedin.com/in/laura-bizzle)
 
 - 👩‍💻 I'm always busy coding ✨@bizzy-coding✨
 
