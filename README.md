@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Laura Bizzle, but you can call me Bizz
+## 👋 Hey
+I’m Laura Bizzle, but you can call me Bizz
 
 ## 👩‍💻 About
 - Interested in - improving my React knowledge and developing my JS skills 
