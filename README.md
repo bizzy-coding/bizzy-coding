@@ -1,24 +1,27 @@
-## 👋 Hey
-I’m Laura Bizzle, but you can call me Bizz
+# 👩‍💻 Laura Bizzle — Creative Frontend Developer & Designer
 
-## 👩‍💻 About
-- Interested in - improving my React knowledge and developing my JS skills 
-- Currently learning - Intermediate React, Intermediate JS, Beginner Node JS
+Hi, I’m Laura Bizzle (also known as Bizzy Coding). I’m a frontend developer with a creative background in design. I love bringing ideas to life using HTML, CSS, JavaScript, and React.
 
-## 📫 Contact
+## 🛠️ What I'm working on
+- Improving my React knowledge and developing advanced JS skills
+- Learning intermediate React and beginner Node.js
+- Building personal projects to explore UI design and interactivity
+
+## 🧠 Skills & Interests
+- Frontend: React, CSS, JavaScript, HTML
+- Design: UI/UX principles, Figma, animation
+- Interests: creative coding, AI, design 
+
+## 🌍 Where to find me
+- **GitHub**: [github.com/bizzy-coding](https://github.com/bizzy-coding)
+- **CodePen**: [codepen.io/Bizzy-Coding](https://codepen.io/Bizzy-Coding)
+- **LinkedIn**: [laura-bizzle](https://uk.linkedin.com/in/laura-bizzle)
+- **Instagram**: [@bizzy_coding](https://www.instagram.com/bizzy_coding/)
 - **Email**: [bizzycoding@gmail.com](mailto:bizzycoding@gmail.com)
-- **CodePen**: [Check out my projects](https://codepen.io/Bizzy-Coding)
-- **Instagram**: [Follow my coding journey](https://www.instagram.com/bizzy_coding/)
-- **LinkedIn**: [Connect with me](https://uk.linkedin.com/in/laura-bizzle)
 
-- 👩‍💻 I'm always busy coding ✨@bizzy-coding✨
+---
 
-## Welcome to my personal Github 
+✨ This GitHub contains my personal coding experiments and projects.  
+If you’re interested in my professional or client work, feel free to get in touch.
 
-- This github account is a place to store all my personal projects 
-- Get in touch if you'd like to see my professional work
-
-<!---
-bizzy-coding/bizzy-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Sometimes designing but always bizzy coding — Laura Bizzle
