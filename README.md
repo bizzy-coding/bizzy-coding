@@ -13,9 +13,9 @@ Hi, I’m Laura Bizzle (also known as Bizzy Coding). I’m a frontend developer 
 - Interests: creative coding, AI, design 
 
 ## 🌍 Where to find me
-- **GitHub**: [github.com/bizzy-coding](https://github.com/bizzy-coding)
-- **CodePen**: [codepen.io/Bizzy-Coding](https://codepen.io/Bizzy-Coding)
 - **LinkedIn**: [laura-bizzle](https://uk.linkedin.com/in/laura-bizzle)
+- **CodePen**: [codepen.io/Bizzy-Coding](https://codepen.io/Bizzy-Coding)
+- **GitHub**: [github.com/bizzy-coding](https://github.com/bizzy-coding)
 - **Instagram**: [@bizzy_coding](https://www.instagram.com/bizzy_coding/)
 - **Email**: [bizzycoding@gmail.com](mailto:bizzycoding@gmail.com)
 
